@@ -41,23 +41,26 @@ body>footer {
 
 .sobre-nos p {
   font-size: 1.25rem;
-  color: #6c757d;
+  color: #fff;
 }
 
 footer {
-  background-color: #000;
-  color: #6c757d;
+  background-color: #000000;
+  color: #ffffff;
   text-align: center;
   padding: 90px 0;
 }
 
-footer a,
-footer p {
-  color: #6c757d;
-  transition: color 0.3s;
+footer a{
+  color: #fff; 
+  transition: color 0.5s;
 }
 
-footer a:hover,
-footer p:hover {
-  color: #fff;
+footer a:hover {
+  color: #00bcd4;
 }
+footer p:hover {
+  color: #e0e0e0; 
+}
+
+
