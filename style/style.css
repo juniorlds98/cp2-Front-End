@@ -1,2 +1,42 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap')
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #000;
+    
+}
+  
+  .bg-image {
+    background: url("https://www.em.com.br/emfoco/wp-content/uploads/2025/02/esse-75.jpg") no-repeat center center/cover;
+    height: 500px;
+    position: relative;
+  }
+  
+  .bg-image::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  header .container {
+    position: relative;
+    z-index: 2;
+  }
+  
+  h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: disc inside;
+  }
+  
+  footer {
+    margin-top: 40px; 
+    }
+
 

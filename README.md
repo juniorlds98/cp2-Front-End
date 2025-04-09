@@ -25,6 +25,12 @@ Este projeto foi desenvolvido com:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/juniorlds98/cp2-Front-End.git
+
+## Páginas interativas
+
+1. Página inicial: Nessa página irá constar o motivo principal do blog e as primeiras séries.
+2. Página da série: A série que nós escolhemos para se aprofundar é Prison Break, então clique na foto do carrossel correspondente a serie, irá gostar de nossa profundidade.
+3. Página de contato: Aprenda mais sobre os precursores deste projeto!
   
 ## Integrantes do Projeto
 
